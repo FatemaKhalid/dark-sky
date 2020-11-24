@@ -1,4 +1,4 @@
-# Weather App
+# Dark Sky
 Weather app in React JS, we use the Open Weather Map API to make calls to a restful api to return the current weather data in a specific state.
 
 <img src="https://github.com/FatemaKhalid/weather-app/blob/main/public/warmweather.png" alt="Your image title" width="250"/>
